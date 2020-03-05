@@ -1,5 +1,5 @@
 [Unit]
-Description=Start ted search website lllll
+Description=Start ted search website llll
 
 [Service]
 ExecStart=/usr/bin/java -jar /app/embedash-1.1-SNAPSHOT.jar --spring.config.location=/app/application.properties
